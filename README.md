@@ -1,7 +1,7 @@
 # LIGA
 LIGA: a LIghtweight CNN architecture designed to classify popular music Genres from the Amazonian region
 
-# References
+### References
 @inproceedings{gomes2025liga,
   author    = {Claudio Gomes, and Tsang Ren},
   title     = {{LIGA: a LIghtweight CNN architecture designed to classify popular music Genres from the Amazonian region}},
