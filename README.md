@@ -3,10 +3,10 @@ LIGA: a LIghtweight CNN architecture designed to classify popular music Genres f
 
 > [!NOTE]
 > How to acess the dataset:
-- [x] Access GoogleDrive Link model or dataset
-- [x] Receive the acess authorization
-- [x] Download in your directory
-- [x] There are some examples to open the dataset and models
+> - [x] Access GoogleDrive Link model or dataset
+> - [x] Receive the acess authorization
+> - [x] Download in your directory
+> - [x] There are some examples to open the dataset and models
 
 ### References
 ```
@@ -17,4 +17,4 @@ LIGA: a LIghtweight CNN architecture designed to classify popular music Genres f
     year      = {2025},
     publisher = {Accepted in IEEESMC},
   }
-``
+```
